@@ -22,4 +22,4 @@ I'm Fiona, and welcome to my Github! I'm currently a 🖥️Computer Science & L
 🌱 Currently learning ... ML and some languages  
 🧸 About me... 🇹🇼🇦🇺  
 🌟 If it's recharge time, I'm probably... making another ceramic bowl🥣, filmmaking🎥, sim racing🏁, or napping🛌   
-📫 Find me! tzfiona[at]g.ucla.edu   
+📫 Find me! tzfiona[at]g.ucla.edu or tz.fiona[at]outlook.com
