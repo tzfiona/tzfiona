@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Fiona, and welcome to my Github! I'm currently a 🖥️Computer Science & Linguistics student at 🏫UCLA passionate about using technology and creativity to solve puzzling problems! 
-
-🔎 Interested in AI, HCI, Computational Linguistics
-🔭 Currently working on Extracting Structured Information Using Large Language Models and an Object Detection Application 
-🌱 Currently learning ... ML and some languages
-🧸 About me... 🇹🇼🇦🇺
-🌟 If it's recharge time, I'm probably... making another ceramic bowl🥣, filmmaking🎥, sim racing🏁, or napping🛌 
-📫 Find me! tzfiona[at]g.ucla.edu 
+I'm Fiona, and welcome to my Github! I'm currently a 🖥️Computer Science & Linguistics student at 🏫UCLA passionate about using technology and creativity to solve puzzling problems!   
+    
+🔎 Interested in AI, HCI, Computational Linguistics  
+🔭 Currently working on Extracting Structured Information Using Large Language Models and an Object Detection Application    
+🌱 Currently learning ... ML and some languages  
+🧸 About me... 🇹🇼🇦🇺  
+🌟 If it's recharge time, I'm probably... making another ceramic bowl🥣, filmmaking🎥, sim racing🏁, or napping🛌   
+📫 Find me! tzfiona[at]g.ucla.edu   
