@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Fiona, and welcome to my Github! I'm currently a 🖥️Computer Science & Linguistics student at 🏫UCLA passionate about using technology and creativity to whirl up a fresh batch of  solutions!    
+I'm Fiona, and welcome to my Github! I'm currently a 🖥️Computer Science & Linguistics student at 🏫UCLA passionate about using technology and creativity to whirl up a fresh batch of  ideas!    
     
 🔎 Interested in AI, HCI, Computational Linguistics  
 🔭 Currently working on Extracting Structured Information Using Large Language Models and an Object Detection Application    
